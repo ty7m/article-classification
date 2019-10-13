@@ -1,0 +1,16 @@
+AppConfig
+views
+bs4
+TestCase
+base
+include
+TestCase
+requests
+sklearn
+Mecab-python3
+Django
+cssselect==1.0.3
+django-bootstrap4==0.0.7
+lxml==4.2.5
+urllib3
+pep8
